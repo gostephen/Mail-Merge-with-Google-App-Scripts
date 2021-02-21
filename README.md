@@ -2,10 +2,10 @@
 Send and track emails in bulk **for free** using Google Sheets and App Scripts
 
 ## What you'll be able to do
-✅Send bulk emails (up to your gmail account outgoing mail limit)
-✅Include attachments
-✅Track when recipients open your emails
-✅Schedule when your mail merge function will run
+- ✅Send bulk emails (up to your gmail account outgoing mail limit)
+- ✅Include attachments
+- ✅Track when recipients open your emails
+- ✅Schedule when your mail merge function will run
 
 ## Set up
 1. Create a Google Sheet for your leads (add the following headers: email, name, status)
